@@ -4,7 +4,6 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
 struct tarea {
 	int beneficio, tiempo, pos_ini;
 };
